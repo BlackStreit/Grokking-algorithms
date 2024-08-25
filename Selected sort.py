@@ -44,3 +44,5 @@ def selectionSort(arr):
     return newArr  # Возвращаем отсортированный список
 
 print(selectionSort([5, 3, 6, 2, 10]))  # Ожидаемый результат: [2, 3, 5, 6, 10]
+
+
